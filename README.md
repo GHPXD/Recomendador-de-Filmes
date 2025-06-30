@@ -167,9 +167,3 @@ Sistema Híbrido: Combina os dois métodos, ponderando seus resultados para gera
 
 📄 Licença
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
-
-pgsql
-Copiar
-Editar
-
-Se quiser, posso gerar esse arquivo automaticamente em um repositório local ou preparar um template pronto para usar no GitHub.
